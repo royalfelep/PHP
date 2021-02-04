@@ -1,5 +1,6 @@
 # Aulas de PHP
 ## Configurando **Apache VirtualHost** com **WampServer**
+**Feito por [Felipe C.](https://github.com/royalfelep)
 <ol>
 <li> Instale o WampServer clicando <a href="https://www.wampserver.com/en/">aqui.</a></li>
 <li> Navegue até o arquivo <code>'httpd.conf'</code>.
