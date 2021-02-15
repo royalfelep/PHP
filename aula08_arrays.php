@@ -58,10 +58,27 @@ echo $pessoa['nome']."<br>";
 echo $pessoa["hobbie"];
 echo "<hr>";
 
+//percorre array com foreach, retornando indice e valor
 foreach($pessoa as $indice => $indice_valor){
     echo "$indice".":"." $indice_valor"."<br>";
 }
+echo "<hr>";
 
+//criando array multidimensional
+$estados_brasil = array(
+    "norte"=>array("acre","amazonas","pará"),
+    "nordeste"=>array("bahia", "ceará", "pernambuco"), 
+    "centro_oeste"=>array("primeiro"=>"distrito_federal", "segundo"=>"goiás", "terceiro"=>"mato_grosso")
+    );
 
+print_r ($estados_brasil);
+echo "<br><br>";
+echo ($estados_brasil["norte"][1]);
+echo "<br><br>";
+
+//printa o nome do indice e o valor dele do array especificado
+foreach($estados_brasil["centro_oeste"] as $indice => $indice_valor ){
+    echo "$indice".":"." $indice_valor"."<br>";
+}
 
 ?>
