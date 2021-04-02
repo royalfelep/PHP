@@ -43,7 +43,4 @@ Faça uma cópia da estrutura e troque os seguintes termos grifados no exemplo a
 <li>No final da página, na sessão "Your VirtualHost", você deverá encontrar o link do seu servidor, que foi definido no <a href="#topico5">tópico 5</a>. Também é possível acessar seu servidor digitando seu link diretamente na barra de pesquisa.</li>
 <li>Seja feliz!</li>
 </ol>
-<hr>
-
-## [Aula 1](https://github.com/royalfelep/php/blob/main/aula01_print.php)
 
