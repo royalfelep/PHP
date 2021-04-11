@@ -1,11 +1,11 @@
 <?php
 // Variável dinámica $$
-$valor = "preço";
-$$valor = "valor final";
+$carro = "tesla";
+$$carro = "roadster";
 
 //print
-echo $valor;
+echo $carro;
 echo "<br>";
-echo $preço;
+echo $tesla;
 
 ?>
