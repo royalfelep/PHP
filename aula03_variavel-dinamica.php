@@ -7,5 +7,3 @@ $$carro = "roadster";
 echo $carro;
 echo "<br>";
 echo $tesla;
-
-?>
