@@ -13,7 +13,7 @@
     //Printando em PHP
     /* comentários
     mais de uma linha */
-    echo "Felipe é lindo<br>";
+    echo "Felipao o brabo<br>";
     print "Estou estudando PHP"
     ?>
 
