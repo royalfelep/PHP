@@ -1,6 +1,5 @@
 # Aulas de PHP
 ## Configurando **Apache VirtualHost** com **WampServer**
-**Feito por [Felipe C.](https://github.com/royalfelep)**
 <ol>
 <li> Instale o WampServer clicando <a href="https://www.wampserver.com/en/">aqui.</a></li>
 <li> Navegue até o arquivo <code>'httpd.conf'</code>.
@@ -45,6 +44,3 @@ Faça uma cópia da estrutura e troque os seguintes termos grifados no exemplo a
 <li>Seja feliz!</li>
 </ol>
 <hr>
-
-## [Aula 1](https://github.com/royalfelep/php/blob/main/aula01_print.php)
-
